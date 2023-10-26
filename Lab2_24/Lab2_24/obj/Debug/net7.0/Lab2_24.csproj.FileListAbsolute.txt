@@ -64,3 +64,5 @@ C:\Users\GFA\source\repos\Lab2_24\Lab2_24\obj\Debug\net7.0\refint\Lab2_24.dll
 C:\Users\GFA\source\repos\Lab2_24\Lab2_24\obj\Debug\net7.0\Lab2_24.pdb
 C:\Users\GFA\source\repos\Lab2_24\Lab2_24\obj\Debug\net7.0\Lab2_24.genruntimeconfig.cache
 C:\Users\GFA\source\repos\Lab2_24\Lab2_24\obj\Debug\net7.0\ref\Lab2_24.dll
+C:\Users\GFA\source\repos\Lab2_24\Lab2_24\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\GFA\source\repos\Lab2_24\Lab2_24\bin\Debug\net7.0\Newtonsoft.Json.dll
